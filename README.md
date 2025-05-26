@@ -1,9 +1,10 @@
 # MONE
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Вкусные Моменты | Блог о еде
+    <title>Вкусные Моменты | Блог о еде</title>
     <link rel="stylesheet" href="style.css">
     <!-- Для красивых иконок, например, иконок социальных сетей в будущем -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -25,21 +26,20 @@
             </nav>
         </div>
     </header>
-
-  <main>
-       <section id="home" class="hero-section">
-           <div class="container">
-              <div class="hero-content">
-                  <h1>Добро пожаловать во Вкусные Моменты!</h1>
-                   <p>Здесь мы делимся рецептами, кулинарными вдохновениями и историями о еде, которая согревает душу.</p>
-                   <a href="#posts" class="button">Читать блог</a>
-               </div>
-          </div>
-      </section>
-       <section id="posts" class="latest-posts">
-          <div class="container">
-               <h2>Последние публикации</h2>
-                <div class="https://lifehacker.ru/wp-content/uploads/2018/05/tomatnyj-sup_1525442518.jpgpost-grid">
+    <main>
+        <section id="home" class="hero-section">
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Добро пожаловать во Вкусные Моменты!</h1>
+                    <p>Здесь мы делимся рецептами, кулинарными вдохновениями и историями о еде, которая согревает душу.</p>
+                    <a href="#posts" class="button">Читать блог</a>
+                </div>
+            </div>
+        </section>
+        <section id="posts" class="latest-posts">
+            <div class="container">
+                <h2>Последние публикации</h2>
+                <div class="post-grid">
                     <!-- Пример карточки поста -->
                     <div class="post-card">
                         <img src="https://via.placeholder.com/400x250?text=Уютный+суп" alt="Уютный суп">
@@ -74,7 +74,7 @@
                 </div>
             </div>
         </section>
-       <section id="gallery" class="image-gallery">
+        <section id="gallery" class="image-gallery">
             <div class="container">
                 <h2>Наша фотогалерея</h2>
                 <div class="gallery-grid">
