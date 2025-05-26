@@ -1,1 +1,46 @@
+                    <div class="gallery-item">
+                        <!-- Было: <img src="https://via.placeholder.com/600x400?text=Домашний+хлеб" alt="Домашний хлеб"> -->
+                        <img src="images/my_bread.jpg" alt="Свежеиспеченный домашний хлеб на деревянной доске">
+                    </div>
+                    <div class="gallery-item">
+                        <!-- Было: <img src="https://via.placeholder.com/600x400?text=Свежие+фрукты" alt="Свежие фрукты"> -->
+                        <img src="images/fresh_fruits.png" alt="Корзина со свежими сезонными фруктами">
+                    </div>
+                    <div class="gallery-item">
+                        <!-- Было: <img src="https://via.placeholder.com/600x400?text=Кофейный+напиток" alt="Кофейный напиток"> -->
+                        <img src="images/coffee_drink.jpeg" alt="Горячий кофейный напиток с латте-артом">
+                    </div>
+                    <div class="gallery-item">
+                        <!-- Было: <img src="https://via.placeholder.com/600x400?text=Паста+с+овощами" alt="Паста с овощами"> -->
+                        <img src="images/pasta_dish.webp" alt="Аппетитная паста с обжаренными овощами и зеленью">
+                    </div>
+                    <div class="gallery-item">
+                        <!-- Было: <img src="https://via.placeholder.com/600x400?text=Ягодный+пирог" alt="Ягодный пирог"> -->
+                        <img src="images/berry_pie.jpg" alt="Крупный план домашнего ягодного пирога">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Вы можете добавить секции "О нас" и "Контакты" по аналогии -->
+        <section id="about" class="about-section">
+            <div class="container">
+                <h2>О нашем блоге</h2>
+                <p>Мы верим, что еда — это не просто топливо, а источник радости, комфорта и единения. Наш блог создан для того, чтобы делиться этой философией и помогать вам открывать новые горизонты вкуса и кулинарного творчества.</p>
+                <p>Присоединяйтесь к нам в этом вкусном приключении!</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Вкусные Моменты. Все права защищены.</p>
+            <div class="social-links">
+                <!-- Пример иконок социальных сетей -->
+                <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-pinterest-p"></i></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
 
