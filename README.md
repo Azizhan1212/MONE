@@ -1,5 +1,4 @@
 # MONE
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +39,7 @@
        <section id="posts" class="latest-posts">
           <div class="container">
                <h2>Последние публикации</h2>
-                <div class="post-grid">
+                <div class="https://lifehacker.ru/wp-content/uploads/2018/05/tomatnyj-sup_1525442518.jpgpost-grid">
                     <!-- Пример карточки поста -->
                     <div class="post-card">
                         <img src="https://via.placeholder.com/400x250?text=Уютный+суп" alt="Уютный суп">
