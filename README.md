@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src=" https://avatars.mds.yandex.net/get-entity_search/1652150/827485891/S600xU_2x" alt="Домашняя выпечка" />
+                        <img src="  alt="Домашняя выпечка" />
                         <div class="card-content">
                             <h3>Ароматная домашняя выпечка для всей семьи</h3>
                             <p class="post-meta">10 октября 2023 | Категория: Выпечка</p>
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src="  alt="Кофе и десерты" />
+                        <img src=" https://img.goodfon.com/wallpaper/nbig/7/bc/blinchiki-yagody-desert.webp alt="Кофе и десерты" />
                         <div class="card-content">
                             <h3>Идеальные десерты к утреннему кофе</h3>
                             <p class="post-meta">5 октября 2023 | Категория: Десерты</p>
