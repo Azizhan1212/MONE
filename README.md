@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src=" https://s1.1zoom.ru/b4954/488/Baking_Buns_Wood_planks_Cutting_board_519704_3840x2400.jpg alt="Домашняя выпечка" />
+                        <img src=" https://s1.1zoom.ru/b4954/488/Baking_Buns_Wood_planks_Cutting_board_519704_3840x2400.jpg" alt="Домашняя выпечка" />
                         <div class="card-content">
                             <h3>Ароматная домашняя выпечка для всей семьи</h3>
                             <p class="post-meta">10 октября 2023 | Категория: Выпечка</p>
