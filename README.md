@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src="  alt="Кофе и десерты" />
+                        <img src=" https://sneg.top/uploads/posts/2023-04/1681145783_sneg-top-p-vkusnyatina-kartinki-pinterest-13.jpg alt="Кофе и десерты" />
                         <div class="card-content">
                             <h3>Идеальные десерты к утреннему кофе</h3>
                             <p class="post-meta">5 октября 2023 | Категория: Десерты</p>
