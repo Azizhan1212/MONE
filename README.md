@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src="  alt="Домашняя выпечка" />
+                        <img src=" https://sun9-48.userapi.com/impf/y0hBSWkZPcvrj21eU4N7qox6Eq829w8pWVm1-A/ANZUti8hVn8.jpg?size=1920x768&quality=95&crop=52,20,2455,980&sign=904508598498b65ddc02bb76fbd49c27&type=cover_group alt="Домашняя выпечка" />
                         <div class="card-content">
                             <h3>Ароматная домашняя выпечка для всей семьи</h3>
                             <p class="post-meta">10 октября 2023 | Категория: Выпечка</p>
