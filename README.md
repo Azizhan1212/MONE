@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f1fe292-373a-4a60-b5ff-1eb55d677e94)![image](https://github.com/user-attachments/assets/7aa79e8d-c300-404c-8978-424d7dca40df)# MONE
+# MONE
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
