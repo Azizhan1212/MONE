@@ -93,7 +93,7 @@
                         <img src=" https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66e257301df72c7dd646f81e_66e2d850609e081099ddc6c1/scale_1200" alt="Паста с овощами" />
                     </div>
                     <div class="gallery-item">
-                        <img src="https://via.placeholder.com/600x400?text=Ягодный+пирог" alt="Ягодный пирог">
+                        <img src=" https://img.goodfon.com/original/2560x1440/6/4b/vypechka-pirog-iagody-malina-chernika-eda.jpg" alt="Ягодный пирог" />
                     </div>
                 </div>
             </div>
