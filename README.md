@@ -90,7 +90,7 @@
                         <img src=" https://www.student.si/wp-content/uploads/2022/08/iced-caramel-latte-coffee-in-a-tall-glass-with-syrup-and-whipped-cream-stockpack-istock.jpg" alt="Кофейный напиток" />
                     </div>
                     <div class="gallery-item">
-                        <img src="https://via.placeholder.com/600x400?text=Паста+с+овощами" alt="Паста с овощами">
+                        <img src=" https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66e257301df72c7dd646f81e_66e2d850609e081099ddc6c1/scale_1200" alt="Паста с овощами" />
                     </div>
                     <div class="gallery-item">
                         <img src="https://via.placeholder.com/600x400?text=Ягодный+пирог" alt="Ягодный пирог">
