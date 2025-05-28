@@ -87,7 +87,7 @@
                         <img src=" https://kubnews.ru/upload/iblock/6be/6bed3b8af51bf9bb0b5e200a7d99b066.jpg" alt="Свежие фрукты" />
                     </div>
                     <div class="gallery-item">
-                        <img src="https://via.placeholder.com/600x400?text=Кофейный+напиток" alt="Кофейный напиток">
+                        <img src=" https://www.student.si/wp-content/uploads/2022/08/iced-caramel-latte-coffee-in-a-tall-glass-with-syrup-and-whipped-cream-stockpack-istock.jpg" alt="Кофейный напиток" />
                     </div>
                     <div class="gallery-item">
                         <img src="https://via.placeholder.com/600x400?text=Паста+с+овощами" alt="Паста с овощами">
