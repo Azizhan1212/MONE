@@ -84,7 +84,7 @@
                         <img src=" https://avatars.mds.yandex.net/i?id=4d04ce42153c830948ec51d7b9bdef55_l-9152778-images-thumbs&n=13" alt="Домашний хлеб" />
                     </div>
                     <div class="gallery-item">
-                        <img src="https://via.placeholder.com/600x400?text=Свежие+фрукты" alt="Свежие фрукты">
+                        <img src=" https://kubnews.ru/upload/iblock/6be/6bed3b8af51bf9bb0b5e200a7d99b066.jpg" alt="Свежие фрукты" />
                     </div>
                     <div class="gallery-item">
                         <img src="https://via.placeholder.com/600x400?text=Кофейный+напиток" alt="Кофейный напиток">
