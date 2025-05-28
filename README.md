@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src=" https://img.goodfon.com/wallpaper/nbig/7/bc/blinchiki-yagody-desert.webp alt="Кофе и десерты" />
+                        <img src="  alt="Кофе и десерты" />
                         <div class="card-content">
                             <h3>Идеальные десерты к утреннему кофе</h3>
                             <p class="post-meta">5 октября 2023 | Категория: Десерты</p>
