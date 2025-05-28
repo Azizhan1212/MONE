@@ -1,4 +1,4 @@
-# MONE
+![image](https://github.com/user-attachments/assets/1f1fe292-373a-4a60-b5ff-1eb55d677e94)![image](https://github.com/user-attachments/assets/7aa79e8d-c300-404c-8978-424d7dca40df)# MONE
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src=" https://avatars.mds.yandex.net/i?id=47c00258cc2e1d206fa6f6fbf42fcfd8d18aa906-5235777-images-thumbs&n=13 alt="Домашняя выпечка" />
+                        <img src=" https://avatars.mds.yandex.net/i?id=d2827fd48dcee5ec2418b60614352e4a_l-5575740-images-thumbs&n=13  alt="Домашняя выпечка" />
                         <div class="card-content">
                             <h3>Ароматная домашняя выпечка для всей семьи</h3>
                             <p class="post-meta">10 октября 2023 | Категория: Выпечка</p>
