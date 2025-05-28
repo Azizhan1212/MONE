@@ -41,7 +41,8 @@
                 <div class="post-grid">
                     <!-- Пример карточки поста -->
                     <div class="post-card">
-                        <img src="=https://avatars.mds.yandex.net/get-entity_search/1652150/827485891/S600xU_2x alt="Уютный суп">
+                        <img src=![image](https://github.com/user-attachments/assets/a890c815-15a1-44da-95b3-7dbb15bc00eb)
+ alt="Уютный суп">
                         <div class="card-content">
                             <h3>Рецепт уютного осеннего супа</h3>
                             <p class="post-meta">15 октября 2023 | Категория: Супы</p>
