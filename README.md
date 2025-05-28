@@ -78,7 +78,7 @@
                 <h2>Наша фотогалерея</h2>
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="https://via.placeholder.com/600x400?text=Салат+с+авокадо" alt="Салат с авокадо">
+                        <img src=" https://montisbar.ru/wp-content/uploads/9/c/b/9cb53d5be7d17ed27689457ec52cfe2f.jpeg" alt="Салат с авокадо" />
                     </div>
                     <div class="gallery-item">
                         <img src="https://via.placeholder.com/600x400?text=Домашний+хлеб" alt="Домашний хлеб">
