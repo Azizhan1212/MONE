@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src=" https://avatars.mds.yandex.net/i?id=ee3b4fc04815b87786b1e2b83e824e83_l-11526326-images-thumbs&n=13 alt="Кофе и десерты" />
+                        <img src="  alt="Кофе и десерты" />
                         <div class="card-content">
                             <h3>Идеальные десерты к утреннему кофе</h3>
                             <p class="post-meta">5 октября 2023 | Категория: Десерты</p>
