@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src="  alt="Кофе и десерты" />
+                        <img src=" https://i0.wp.com/kim-foods.com/wp-content/uploads/2020/02/AdobeStock_155537960-scaled.jpeg?w=2560&ssl=1" alt="Кофе и десерты" />
                         <div class="card-content">
                             <h3>Идеальные десерты к утреннему кофе</h3>
                             <p class="post-meta">5 октября 2023 | Категория: Десерты</p>
