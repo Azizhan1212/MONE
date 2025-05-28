@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="post-card">
-                        <img src=" https://avatars.mds.yandex.net/i?id=d2827fd48dcee5ec2418b60614352e4a_l-5575740-images-thumbs&n=13  alt="Домашняя выпечка" />
+                        <img src=" https://pogovorim.by/uploads/posts/2024-08/1722846875_vypechka.jpg alt="Домашняя выпечка" />
                         <div class="card-content">
                             <h3>Ароматная домашняя выпечка для всей семьи</h3>
                             <p class="post-meta">10 октября 2023 | Категория: Выпечка</p>
